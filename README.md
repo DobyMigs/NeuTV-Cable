@@ -35,6 +35,7 @@ Asian Food Network
 TLC
 Travel Channel
 Nickelodeon
+Aniplus
 Animax
 Cartoon Network
 Moonbug Kids
