@@ -29,6 +29,8 @@ TMC
 Hits Movies
 THRILL
 Tap Movies
+Tap Action Flix
+Studio Universal
 Warner TV
 Metro Channel
 Asian Food Network
@@ -63,6 +65,7 @@ Animal Planet
 Discovery Channel
 Discovery Asia
 Knowledge Channel
+Global Trekker
 MYX Philippines
 Arirang
 NHK World Japan
@@ -80,8 +83,6 @@ Light TV
 SMNI Channel
 TV Maria
 Fashion TV
-Tap Action Flix
-Studio Universal
 Hits
 Food Network
 History HD
