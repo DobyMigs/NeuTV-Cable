@@ -96,7 +96,7 @@ SPOTV 2 HD
 ```
 Link to IPTV M3u:
 ```
-https://raw.githubusercontent.com/DobyMigs/NeuTV-Cable/refs/heads/main/neutv.m3u
+https://raw.githubusercontent.com/DobyMigs/neutv-cable/refs/heads/main/NeuTV.m3u
 ```
 Credits to all the sources of the working channels
 
