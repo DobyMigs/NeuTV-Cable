@@ -83,6 +83,7 @@ Light TV
 SMNI Channel
 TV Maria
 Fashion TV
+Kix HD
 Hits
 Food Network
 History HD
