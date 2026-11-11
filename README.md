@@ -80,6 +80,7 @@ SMNI Channel
 TV Maria
 Fashion TV
 Tap Action Flix
+Studio Universal
 Hits
 Food Network
 History HD
