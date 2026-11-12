@@ -31,6 +31,9 @@ THRILL
 Tap Movies
 Tap Action Flix
 Studio Universal
+HBO
+HBO Family
+Cinemax
 Warner TV
 Metro Channel
 Asian Food Network
@@ -74,6 +77,7 @@ ABC Australia
 CCTV4
 CGTN
 TV5 Monde
+K+
 KBS World
 INC TV
 EWTN Asia-Pacific
