@@ -1,6 +1,7 @@
 # NeuTV Cable
 Philippine and international IPTV list maintained from various sources. Active channels as of 11/12/2026
 ```
+Kapatid Channel
 One PH
 Kapamilya Channel HD
 PTV4
